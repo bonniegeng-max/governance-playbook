@@ -42,7 +42,7 @@ npx skills add bonniegeng-max/governance-playbook
 
 ## 判例机制（边用边厚）
 
-当前 v0.1.0 的知识内核基于公开方法论（ROOST/PwC/WebPurify 等）。每次真实使用后说"存判例"，本次判断与实际效果会按模板入库（`references/案例库-判例.md`）——判例库越厚，策略越贴你的平台。判例入库执行脱敏一票否决。
+当前 v0.1.1 的知识内核基于公开方法论（ROOST/PwC/WebPurify 等）。每次真实使用后说"存判例"，本次判断与实际效果会按模板入库（`references/案例库-判例.md`）——判例库越厚，策略越贴你的平台。判例入库执行脱敏一票否决。
 
 ## License
 
